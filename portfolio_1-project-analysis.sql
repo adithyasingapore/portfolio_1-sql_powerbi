@@ -17,7 +17,6 @@ Three types and many years are available. I have chosen the Data Warehouse versi
 
 -- Cleaned DimDate table to improve readability and usability
 -- Data filtered for only the last 2 years, as that is what our project requires
-
 SELECT
 	[DateKey],
 	[FullDateAlternateKey] AS Date,
@@ -47,7 +46,6 @@ ORDER BY Date;
 
 -- Cleaned DimCustomer table to improve readability and usability
 -- Joining DimGeography table to view Customer City along with DimCustomer data
-
 SELECT
 	cust.[CustomerKey] AS CustomerKey,
 --		[GeographyKey],
@@ -88,7 +86,6 @@ ORDER BY CustomerKey;
 
 -- Cleaned DimProduct table to improve readability and usability
 -- Joined Product Category and Product Subcategory Keys
-
 SELECT
 	pro.[ProductKey],
 	pro.[ProductAlternateKey],
@@ -179,3 +176,5 @@ The YEAR(GETDATE()) fetches the current year automatically.
 Our project requires data of the prior 2 years, so we add '-2'.
 Using the above function will allow us to only filter the data for the last 2 years.
 */
+
+-- END
