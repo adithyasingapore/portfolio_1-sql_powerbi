@@ -1,6 +1,6 @@
 # Portfolio Project 1 - SQL and PowerBI - AdventureWorks
 
-Welcome to my first portfolio project. In this data analysis project, I clean the AdventureWorks dataset with SQL, then visualise it as an interactive dashboard with PowerBI and also export a static version of the dashboard as a PDF.
+Welcome to my first portfolio project. In this data analysis project, I clean the AdventureWorks dataset with SQL, then visualise it as an interactive 3-page dashboard with PowerBI and also export a static version of the dashboard as a PDF.
 
 **Project Files**
 
@@ -16,11 +16,25 @@ With that, I began my SQL querying and analysis.
 
 The 4 CSV data tables are the output of the SQL queries, where I clean the tables by sorting and exporting only those columns which are needed for visualisation in PowerBI. 
 
-Once the cleaned data tables have been exported as CSVs, I import the 4 CSVs and the Excel worksheet into PowerBI, where I link the tables together in the "Model" side tab.
+Once the cleaned data tables have been exported as CSVs, I import the 4 CSVs and the Excel worksheet into PowerBI, where I link the tables together in the "Model" side tab:
+
+![portfolio_1-image-data_model](https://user-images.githubusercontent.com/122973220/213423347-8cfd652a-8c4f-4cfe-9dd6-13d677872251.jpg)
 
 I then further process the data in Power Query ("Transform data" on the Home tab), renaming columns, changing columns' data type etc. and bring the columns into a format suitable for visualisation.
 
-Finally, after visualising the data as an interactive dashboard in PowerBI, I also export a static version of the dashboard as a PDF.
+Finally, I visualise the data as an interactive 3-page dashboard in PowerBI. I also export a static version of the dashboard as a PDF.
+
+**Page 1 - AdventureWorks Sales Overview**
+
+![portfolio_1-image-adventure_works_1](https://user-images.githubusercontent.com/122973220/213424939-2e4614c7-28f2-4f25-9691-e53f7aa9f368.jpg)
+
+**Page 2 - Sales by Customer**
+
+![portfolio_1-image-adventure_works_2](https://user-images.githubusercontent.com/122973220/213424949-e011d637-591e-48ac-b3fd-12c25af9456e.jpg)
+
+**Page 3 - Sales by Product**
+
+![portfolio_1-image-adventure_works_3](https://user-images.githubusercontent.com/122973220/213424958-d521ef82-6b3b-4df3-b8f6-7f1b9a191052.jpg)
 
 **Future Project Aim**
 
