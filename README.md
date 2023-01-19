@@ -30,11 +30,11 @@ Finally, I visualise the data as an interactive 3-page dashboard in PowerBI. I a
 
 **Page 2 - Sales by Customer**
 
-![portfolio_1-image-adventure_works_2](https://user-images.githubusercontent.com/122973220/213424949-e011d637-591e-48ac-b3fd-12c25af9456e.jpg)
+![portfolio_1-image-adventure_works_2](https://user-images.githubusercontent.com/122973220/213426418-36348415-aa68-42e7-90a2-81b0306cd30f.jpg)
 
 **Page 3 - Sales by Product**
 
-![portfolio_1-image-adventure_works_3](https://user-images.githubusercontent.com/122973220/213424958-d521ef82-6b3b-4df3-b8f6-7f1b9a191052.jpg)
+![portfolio_1-image-adventure_works_3](https://user-images.githubusercontent.com/122973220/213426517-39db89b9-88e1-4241-9844-bd65cfadb686.jpg)
 
 **Future Project Aim**
 
